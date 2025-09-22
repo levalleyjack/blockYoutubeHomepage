@@ -18,5 +18,14 @@ Navigate to "My Filters" and paste the following in:
 youtube.com##ytd-browse[page-subtype="home"]
 youtube.com###related
 ```
+If you would like to also block Youtube shorts, then paste this instead:
+```
+youtube.com##ytd-browse[page-subtype="home"]
+youtube.com###related
+
+! blocks YT-Shorts
+youtube.com##ytd-guide-entry-renderer:has-text(Shorts)
+youtube.com##ytd-mini-guide-entry-renderer:has-text(Shorts)
+```
 ## Step 4: 
 Click "Apply Changes" and become more productive
