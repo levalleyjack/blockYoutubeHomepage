@@ -1,4 +1,6 @@
 # blockYoutubeHomepage
+This is a guide on how to block both the "Homepage" and "Related Videos" features on Youtube
+
 <img width="2557" height="1339" alt="image" src="https://github.com/user-attachments/assets/a9ada1cc-7122-4fa1-8201-2fc60db9fe3e" />
 
 ## Step 1:
