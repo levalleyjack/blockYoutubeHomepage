@@ -26,6 +26,7 @@ youtube.com###related
 ! blocks YT-Shorts
 youtube.com##ytd-guide-entry-renderer:has-text(Shorts)
 youtube.com##ytd-mini-guide-entry-renderer:has-text(Shorts)
+youtube.com##ytd-shorts.ytd-page-manager.style-scope
 ```
 ## Step 4: 
 Click "Apply Changes" and become more productive
