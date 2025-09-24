@@ -4,7 +4,7 @@ This is a guide on how to block both the "Homepage" and "Related Videos" feature
 <img width="2557" height="1339" alt="image" src="https://github.com/user-attachments/assets/a9ada1cc-7122-4fa1-8201-2fc60db9fe3e" />
 
 ## Step 1:
-Install uBlock Origin. This is the best in class open source adblocker with tons of features such as the ability to modify the page of the site. We will be using this specific feature.
+Install uBlock Origin. This is the best in class open source adblocker with tons of features such as the ability to modify the HTML of the site when the page loads. We will be using this specific feature.
 
 ## Step 2:
 Click on the settings tab of uBlock Origin
